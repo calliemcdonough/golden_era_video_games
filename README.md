@@ -1,5 +1,5 @@
 # golden_era_video_games
-This project comes from datacamp. To do you own project use the following link:[ https://app.datacamp.com/learn/projects/exploring-airbnb-market-trends](https://app.datacamp.com/learn/projects/when_was_the_golden_era_of_video_games)
+This project comes from datacamp. To do you own project use the following link:(https://app.datacamp.com/learn/projects/when_was_the_golden_era_of_video_games)
 
 Project Description: Video games are big business: the global gaming market is projected to be worth more than $300 billion by 2027 according to Mordor Intelligence. With so much money at stake, the major game publishers are hugely incentivized to create the next big hit. But are games getting better, or has the golden age of video games already passed?
 
